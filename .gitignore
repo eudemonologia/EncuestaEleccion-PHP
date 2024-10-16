@@ -1,0 +1,40 @@
+// ignorar archivos zip y sql
+*.zip
+*.sql
+
+// ignorar archivos de mac
+.DS_Store
+
+// ignorar archivos de log
+*.log
+
+// ignorar archivos de cache
+*.cache
+
+// ignorar archivos de configuración
+*.config
+
+// ignorar archivos de plantilla
+*.template
+
+// ignorar archivos de backup
+*.backup
+
+// ignorar archivos de reporte
+*.report
+
+// ignorar archivos de base de datos
+*.db
+
+// ignorar archivos de imagen
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+// ignorar archivos de audio
+*.mp3
+*.wav
+
+// ignorar archivos de video
+*.mp4
